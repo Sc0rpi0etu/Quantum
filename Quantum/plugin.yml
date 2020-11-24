@@ -1,0 +1,10 @@
+name: Quantum
+version: 1.0
+author: sc0rpi0
+main: fr.sc0rpi0.quantum.Main
+api-version: 1.13
+commands:
+  q:
+    description: This is the help command
+  qadmin:
+    description: admin command
